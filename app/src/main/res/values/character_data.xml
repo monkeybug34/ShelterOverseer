@@ -1,0 +1,12 @@
+<resources>
+    <string name="character_name">Character Name Here</string>
+
+    <integer name="character_major_level" >25</integer>
+    <integer name="character_strength_level" >2</integer>
+    <integer name="character_perception_level" >3</integer>
+    <integer name="character_endurance_level" >4</integer>
+    <integer name="character_charisma_level" >5</integer>
+    <integer name="character_intelligence_level" >6</integer>
+    <integer name="character_agility_level" >7</integer>
+    <integer name="character_luck_level" >8</integer>
+</resources>
